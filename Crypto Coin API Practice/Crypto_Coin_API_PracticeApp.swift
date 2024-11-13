@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct Crypto_Coin_API_PracticeApp: App {
+    
+    @State var viewModel = ViewModel()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(viewModel)
         }
     }
 }
