@@ -10,22 +10,9 @@
 		05800AB72CE47EA50012B13F /* Crypto Coin API Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crypto Coin API Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		05800ACB2CE47F070012B13F /* Exceptions for "Crypto Coin API Practice" folder in "Crypto Coin API Practice" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Crypto-Coin-API-Practice-Info.plist",
-			);
-			target = 05800AB62CE47EA50012B13F /* Crypto Coin API Practice */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		05800AB92CE47EA50012B13F /* Crypto Coin API Practice */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				05800ACB2CE47F070012B13F /* Exceptions for "Crypto Coin API Practice" folder in "Crypto Coin API Practice" target */,
-			);
 			path = "Crypto Coin API Practice";
 			sourceTree = "<group>";
 		};
